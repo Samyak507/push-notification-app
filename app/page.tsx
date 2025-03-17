@@ -57,7 +57,7 @@ export default function Home() {
         className="mt-6 px-8 py-3 bg-[#1a0b30] text-white rounded-lg border-2 border-[#7c3aed] hover:bg-[#2c2143]"
         onClick={handleTestNotification}
       >
-        Send Notification
+        Send&nbsp;Notification
       </Button>
     </main>
   );
