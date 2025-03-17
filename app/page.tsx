@@ -47,7 +47,7 @@ export default function Home() {
       </div>
 
       <div className="text-center text-white">
-        <h1 className="text-2xl font-bold">Lorem Ipsum...</h1>
+        <h1 className="text-2xl font-bold">Lorem Ipsum&hellip;</h1>
         <p className="text-sm text-gray-400">Lorem ipsum dolor sit amet.</p>
       </div>
 
